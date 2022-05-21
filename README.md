@@ -1,15 +1,17 @@
 # Challenge-5
+Workday Schedule
 
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+# Description 
+This challenge was provided with a starter code given in the credits section. The user has access to a day planner that operates within working hours of 9am - 5pm. The planner displays the current date up top and has color coded the present, past, and future time. The text is saved in local storage
+
+# link 
+https://bprendaj.github.io/Challenge-5/
+
+# User story
+As an employee with a busy schedule, I want to add important events to a daily planner so that I can manage my time effectively.
+
+# Framework Packages
+1. JQuery
+2. Bootstrap
+
+# Screenshot
