@@ -15,3 +15,4 @@ As an employee with a busy schedule, I want to add important events to a daily p
 2. Bootstrap
 
 # Screenshot
+<img width="1224" alt="Screen Shot 2022-05-21 at 7 33 01 PM" src="https://user-images.githubusercontent.com/103226702/169663038-998765c8-898d-4870-8e77-c2a42ab23500.png">
